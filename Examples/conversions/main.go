@@ -12,6 +12,8 @@ func main() {
 	var m float64 = 42.222
 
 	// Here float32 type is converted into float64 type
+
+	1
 	m = float64(z)
 	fmt.Printf("%v of type %T \n", m, m)
 
